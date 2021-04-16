@@ -1,0 +1,7 @@
+# Exercise 7.28
+a = [10, 40, 30]
+print("a = ", a)
+# Sesudah ditambah
+a.append(50)
+a.append(60)
+print("a sesudah ditambah= ", a)
